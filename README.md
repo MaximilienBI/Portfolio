@@ -8,6 +8,9 @@ https://www.youtube.com/playlist?list=PLSIXhAn7EN9179Lq9A5aicterdPg-8zIY
 
 # Crushers
 
+### Character Popup
+![Character Popup](https://github.com/user-attachments/assets/c941d701-ca98-425d-ae10-4ab1dc21ca08)
+
 ### Hero Collection
 ![Hero Collection](https://github.com/user-attachments/assets/f11e9823-71f9-4025-8cc2-023c1c0712db)
 
